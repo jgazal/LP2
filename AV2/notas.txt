@@ -1,0 +1,6 @@
+João da Silva
+2.0 4.3 6.5 3.0
+Manuel Santos
+7.0 8.2 8.6 9.0
+Fulana de Tal
+6.0 7.5 7.8 5.5 

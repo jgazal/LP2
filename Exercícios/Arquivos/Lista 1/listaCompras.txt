@@ -1,0 +1,5 @@
+produto1 2 5.00
+produto2 3 3.26
+produto3 2 7.89
+produto4 1 10.53
+produto5 5 2.47
